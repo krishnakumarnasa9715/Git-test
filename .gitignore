@@ -1,0 +1,13 @@
+# Quarto generated files
+*.html
+*_files/
+*.quarto_ipynb
+*.quarto_ipynb_1
+*.quarto_ipynb_2
+*.quarto_ipynb_3
+*.quarto_ipynb_4
+*.quarto_ipynb_5
+*.quarto_ipynb_6
+
+# Zip files
+*.zip
