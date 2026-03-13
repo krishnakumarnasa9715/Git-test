@@ -1,0 +1,12 @@
+---
+title: "Hello Quarto"
+format: html
+---
+
+## Test
+
+This is a Quarto document.
+
+```{python}
+print("Hello from Python!")
+```
