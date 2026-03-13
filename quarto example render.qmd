@@ -8,5 +8,7 @@ format: html
 This is a Quarto document.
 
 ```{python}
-print("Hello from Python!")
+print("Hello from Python with new features!!")
+print("Hello from Python with new features!")
+print("hehehe")
 ```
